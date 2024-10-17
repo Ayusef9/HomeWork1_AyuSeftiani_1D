@@ -1,4 +1,4 @@
-# Program Pemesanan Makanan dan Minuman Pada Kantin Kampus
+# Program Pemesanan Makanan Pada Kantin Kampus
 
 ## Studi Kasus
 Di banyak kampus,kantin sering mengalami antrian panjang,terutama pada jam makan siang. Hal ini menyebabkan mahasiswa kehilangan waktu berharga untuk aktivitas lain, seperti belajar atau menghadiri kelas.
